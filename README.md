@@ -5,9 +5,9 @@ This repository tracks my daily progress as I master Java, from core fundamental
 ## 🚀 Progress Checklist
 
 ### 🟢 Phase 1: Java Fundamentals
-- [ ] Introduction to Java Course
-- [ ] Java Development Kit setup
-- [ ] First code in Java
+- [x] Introduction to Java Course
+- [x] Java Development Kit setup
+- [x] First code in Java
 - [ ] How Java Works
 - [ ] Variables in Java
 - [ ] Data types in Java
