@@ -8,8 +8,8 @@ This repository tracks my daily progress as I master Java, from core fundamental
 - [x] Introduction to Java Course
 - [x] Java Development Kit setup
 - [x] First code in Java
-- [ ] How Java Works
-- [ ] Variables in Java
+- [x] How Java Works
+- [x] Variables in Java
 - [ ] Data types in Java
 - [ ] Literals
 - [ ] Type conversion
