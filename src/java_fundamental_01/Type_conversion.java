@@ -7,5 +7,15 @@ public class Type_conversion {
 
         System.out.println(a);
 
+        byte a = 15;
+        byte b = 13;
+         int result = a * b;
+
+         System.out.println(result);
+
+         float f = 5.6f;
+         int t =(int) f;
+
+         System.out.print(t);
     }
 }
