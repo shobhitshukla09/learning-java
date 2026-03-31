@@ -10,9 +10,9 @@ This repository tracks my daily progress as I master Java, from core fundamental
 - [x] First code in Java
 - [x] How Java Works
 - [x] Variables in Java
-- [ ] Data types in Java
-- [ ] Literals
-- [ ] Type conversion
+- [x] Data types in Java
+- [x] Literals
+- [x] Type conversion
 - [ ] Assignment Operators
 - [ ] Relational Operators
 - [ ] Logical Operators

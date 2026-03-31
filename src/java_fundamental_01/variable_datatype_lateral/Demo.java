@@ -33,6 +33,5 @@ public class Demo {
         System.out.println(num3);  // it will give only zero without _(for convenient)
 
 
+  }
     }
-}
-
